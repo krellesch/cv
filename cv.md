@@ -20,6 +20,7 @@ __Diplom ingeniør i Softwareteknologi__
 * Diskret matematik
 * Introduktion til statistik
 * Compilerteknik
+* Brugerinteraktion og udvikling på mobile enheder
 
 ### UWA PERTH ![alt text][uwa]
 `2017-17`
