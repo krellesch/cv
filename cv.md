@@ -2,7 +2,7 @@
 
 ## UDDANNELSE OG AFSLUTTEDE FAG
 
-#### 2016-18 DTU LYNGBY 
+### 2016-18 DTU LYNGBY 
 #### Diplom ingeniør i Softwareteknologi
 * Algoritmer og datastrukturer
 * Modelbaseret softwareudvikling
