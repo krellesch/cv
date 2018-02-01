@@ -71,7 +71,7 @@ Der blev arbejdet i Java i værktøjet **intelliJ**. **Spring MVC**, **Hibernate
 > fuldtidsudvikler. Kristian har i perioden arbejde med Java, Spring MVC, Hibernate og web services. Hans arbejdsopgaver har
 > været meget forskellige, og han har vist, at han er i stand til at hurtigt at sætte sig ind i ny teknologi og løse opgaven
 > til fuld tilfredsshed. Kristian arbejder selvstændigt med stor faglig dygtighed. Han er go til at arbejde sammen med andre
-> og er vellidte blandt hans kollegaer. Det er defor med glæde at vi kan anbefale Kristian Schjønning”
+> og er vellidte blandt hans kollegaer. Det er defor med glæde at vi kan anbefale Kristian Schjønning” - Steffen Vogdrup
 
 ### Flexya A/S
 `2015-15`
