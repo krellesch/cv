@@ -1,9 +1,9 @@
 ## Kristian Schjønning
 
 ## UDDANNELSE OG AFSLUTTEDE FAG
-`2016-18`
 ### DTU LYNGBY ![alt text][logo]
-#### Diplom ingeniør i Softwareteknologi 
+`2016-18`
+__Diplom ingeniør i Softwareteknologi__
 * Algoritmer og datastrukturer
 * Modelbaseret softwareudvikling
 * CDIO-Projekt ( ”Conceive”, ”Design”, ”Implement” og ”Operate”)
