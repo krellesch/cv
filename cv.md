@@ -50,13 +50,25 @@ __Studentereksamen med studieretningen Virksomhedsøkonomi, Matematik og Finansi
 * Samfundsfag (C)
 
 ## JOB & STUDIEJOB
-### Flexya
-`2017-17`
+### Flexya A/S
+`2015-17`
 __Software Developer__
 
-⋅⋅⋅Udvikler med fokus på backend. 
-⋅⋅⋅Der blev arbejdet i Java i værktøjet **intelliJ**. **Spring MVC**, **Hibernate**, **JPA**.
-⋅⋅⋅- Zigna, Panneo (digital underskrift)
+Udvikler med fokus på backend. 
+Der blev arbejdet i Java i værktøjet **intelliJ**. **Spring MVC**, **Hibernate**, **JPA**.
+- Zigna, Panneo (digital underskrift)
+
+### Flexya A/S
+`2015-15`
+__Praktikant__
+
+### Dynamic ApS
+`2011-NU`
+__Owner__
+
+### DSV - Global Transport and Logistics 
+`2008-11`
+__Store employee__
 
 [dtu]: https://github.com/krellesch/cv/blob/master/logo/dtu.png "Danmarks tekniske universitet"
 [kea]: https://github.com/krellesch/cv/blob/master/logo/kea.png "Københavnserhvers akademi"
