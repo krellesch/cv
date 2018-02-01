@@ -1,5 +1,11 @@
 ## Kristian Schjønning ![alt text][profil_billed]
 
+<div id="webaddress">
+<a href="mailto:krelleschjoenning@gmail.com">gmail</a>
+|
+<i class="fa fa-github"></i> <a href="https://www.linkedin.com/in/kristian-schj%C3%B8nning-93b761105/">linkedin</a>
+</div>
+
 ## UDDANNELSE OG AFSLUTTEDE FAG
 ### UWA PERTH ![alt text][uwa]
 `2017-17`
