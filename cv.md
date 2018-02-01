@@ -6,6 +6,9 @@
 <a href="https://www.linkedin.com/in/kristian-schj%C3%B8nning-93b761105/">Linkedin</a>
 </div>
 
+Mit fulde navn er Kristian Ter-Borch Gram Schjønning, jeg er 26 år. Jeg bor i andelslejlighed på Islands Brygge, men er født og opvokset i Odense.
+Jeg valgte på min uddannelse at kombinere min kærlighed for det kreative med min interesse for det tekniske – først på erhvervs niveau og siden på diplom ingeniør studiet ved DTU. 
+
 ## UDDANNELSE OG AFSLUTTEDE FAG
 ### UWA PERTH ![alt text][uwa]
 `2017-17`
@@ -63,6 +66,12 @@ __Software Developer__
 Udvikler med fokus på backend. 
 Der blev arbejdet i Java i værktøjet **intelliJ**. **Spring MVC**, **Hibernate**, **JPA**.
 - Zigna, Panneo (digital underskrift)
+
+> “Kristian har ved Flexya, siden slutningen af februar 2015 som studie medhjælper of fra medio januar 2016 som
+> fuldtidsudvikler. Kristian har i perioden arbejde med Java, Spring MVC, Hibernate og web services. Hans arbejdsopgaver har
+> været meget forskellige, og han har vist, at han er i stand til at hurtigt at sætte sig ind i ny teknologi og løse opgaven
+> til fuld tilfredsshed. Kristian arbejder selvstændigt med stor faglig dygtighed. Han er go til at arbejde sammen med andre
+> og er vellidte blandt hans kollegaer. Det er defor med glæde at vi kan anbefale Kristian Schjønning”
 
 ### Flexya A/S
 `2015-15`
