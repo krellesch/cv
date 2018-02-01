@@ -49,8 +49,17 @@ __Studentereksamen med studieretningen Virksomhedsøkonomi, Matematik og Finansi
 * Erhvervsret (C) 
 * Samfundsfag (C)
 
+## JOB & STUDIEJOB
+### Flexya
+`2017-17`
+__Software Developer__
+
+⋅⋅⋅Udvikler med fokus på backend. 
+⋅⋅⋅Der blev arbejdet i Java i værktøjet **intelliJ**. **Spring MVC**, **Hibernate**, **JPA**.
+⋅⋅⋅- Zigna, Panneo (digital underskrift)
+
 [dtu]: https://github.com/krellesch/cv/blob/master/logo/dtu.png "Danmarks tekniske universitet"
 [kea]: https://github.com/krellesch/cv/blob/master/logo/kea.png "Københavnserhvers akademi"
 [uwa]: https://github.com/krellesch/cv/blob/master/logo/uwa.png "University Of Western Australia"
 [tietgen]: https://github.com/krellesch/cv/blob/master/logo/tietgen.png "Tietgen handelsgymnasium"
-[profil_billed]: https://github.com/krellesch/cv/blob/master/logo/profile.png "Flot fyr!"
+[profil_billed]: https://github.com/krellesch/cv/blob/master/logo/profil_billed.png "Flot fyr"
