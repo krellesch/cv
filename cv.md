@@ -2,7 +2,7 @@
 
 ## UDDANNELSE OG AFSLUTTEDE FAG
 
-##2016-18 DTU LYNGBY 
+## 2016-18 DTU LYNGBY 
 ### Diplom ingeniør i Softwareteknologi
 
  * Algoritmer og datastrukturer
@@ -12,3 +12,15 @@
  * Diskret matematik
  * Introduktion til statistik
  * Compilerteknik
+
+## 2013-16 Københavns Erhversakademi KØBENHAVN 
+### Datamatiker
+
+ * Softwarekonstruktion
+ * Softwaredesign
+ * IT i organisationer
+* Computerarkitektur og operativsystemer
+* Programmering   
+ * Software udvikling
+ * Android
+ * Web development i C#, ASP.NET 
