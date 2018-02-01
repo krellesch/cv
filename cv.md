@@ -1,5 +1,5 @@
 ## Kristian Schjønning ![alt text][profil_billed]
-
+__BEng. Softwareteknologi__
 <div id="webaddress">
 <a href="mailto:krelleschjoenning@gmail.com">Mail</a>
 |
