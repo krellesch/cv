@@ -12,7 +12,7 @@ __Diplom ingeniør i Softwareteknologi__
 * Introduktion til statistik
 * Compilerteknik
 
-### 2013-16 Københavns Erhversakademi KØBENHAVN 
+### Københavns Erhversakademi KØBENHAVN ![alt text][dtu]
 `2013-16`
 __Datamatiker__
 * Softwarekonstruktion
