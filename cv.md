@@ -1,4 +1,4 @@
-## Kristian Schjønning ![alt text][profil_billede]
+## Kristian Schjønning ![alt text][profil_billed]
 
 ## UDDANNELSE OG AFSLUTTEDE FAG
 ### UWA PERTH ![alt text][uwa]
@@ -53,4 +53,4 @@ __Studentereksamen med studieretningen Virksomhedsøkonomi, Matematik og Finansi
 [kea]: https://github.com/krellesch/cv/blob/master/logo/kea.png "Københavnserhvers akademi"
 [uwa]: https://github.com/krellesch/cv/blob/master/logo/uwa.png "University Of Western Australia"
 [tietgen]: https://github.com/krellesch/cv/blob/master/logo/tietgen.png "Tietgen handelsgymnasium"
-[profil_billed]: https://github.com/krellesch/cv/blob/master/logo/profil.png "Flot fyr!"
+[profil_billed]: https://github.com/krellesch/cv/blob/master/logo/profile.png "Flot fyr!"
