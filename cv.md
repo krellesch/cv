@@ -12,7 +12,7 @@ __Diplom ingeniør i Softwareteknologi__
 * Introduktion til statistik
 * Compilerteknik
 
-### Københavns Erhversakademi KØBENHAVN ![alt text][dtu]
+### Københavns Erhversakademi KØBENHAVN ![alt text][kea]
 `2013-16`
 __Datamatiker__
 * Softwarekonstruktion
@@ -24,4 +24,5 @@ __Datamatiker__
 * Android
 * Web development i C#, ASP.NET
 
-[dtu]: https://github.com/krellesch/cv/blob/master/logo/download.png "DTU"
+[dtu]: https://github.com/krellesch/cv/blob/master/logo/dtu.png "Danmarks tekniske universitet"
+[kea]: https://github.com/krellesch/cv/blob/master/logo/kea.png "Københavnserhvers akademi"
