@@ -1,9 +1,9 @@
 ## Kristian Schjønning ![alt text][profil_billed]
 
 <div id="webaddress">
-<a href="mailto:krelleschjoenning@gmail.com">gmail</a>
+<a href="mailto:krelleschjoenning@gmail.com">Mail</a>
 |
-<i class="fa fa-github"></i> <a href="https://www.linkedin.com/in/kristian-schj%C3%B8nning-93b761105/">linkedin</a>
+<a href="https://www.linkedin.com/in/kristian-schj%C3%B8nning-93b761105/">Linkedin</a>
 </div>
 
 ## UDDANNELSE OG AFSLUTTEDE FAG
