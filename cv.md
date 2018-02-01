@@ -9,6 +9,7 @@ __BEng. Softwareteknologi__
 Mit fulde navn er Kristian Ter-Borch Gram Schjønning, jeg er 26 år. Jeg bor i andelslejlighed på Islands Brygge, men er født og opvokset i Odense.
 Jeg valgte på min uddannelse at kombinere min kærlighed for det kreative med min interesse for det tekniske – først på erhvervs niveau og siden på diplom ingeniør studiet ved DTU. 
 
+## UDDANNELSE OG AFSLUTTEDE FAG
 ### DTU LYNGBY ![alt text][dtu]
 `2016-18`
 __Diplom ingeniør i Softwareteknologi__
@@ -20,7 +21,6 @@ __Diplom ingeniør i Softwareteknologi__
 * Introduktion til statistik
 * Compilerteknik
 
-## UDDANNELSE OG AFSLUTTEDE FAG
 ### UWA PERTH ![alt text][uwa]
 `2017-17`
 __Computer Science__
