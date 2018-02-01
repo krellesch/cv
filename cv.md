@@ -2,8 +2,8 @@
 
 ## UDDANNELSE OG AFSLUTTEDE FAG
 
-### 2016-18 DTU LYNGBY 
-#### Diplom ingeniør i Softwareteknologi
+### 2016-18 DTU LYNGBY ![alt text][logo]
+#### Diplom ingeniør i Softwareteknologi 
 * Algoritmer og datastrukturer
 * Modelbaseret softwareudvikling
 * CDIO-Projekt ( ”Conceive”, ”Design”, ”Implement” og ”Operate”)
@@ -24,3 +24,4 @@
 * Android
 * Web development i C#, ASP.NET
 
+[logo]: https://github.com/krellesch/cv/blob/master/logo/download.png "DTU"
