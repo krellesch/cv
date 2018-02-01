@@ -1,7 +1,7 @@
 ## Kristian Schjønning
 
 ## UDDANNELSE OG AFSLUTTEDE FAG
-### DTU LYNGBY ![alt text][logo]
+### DTU LYNGBY ![alt text][dtu]
 `2016-18`
 __Diplom ingeniør i Softwareteknologi__
 * Algoritmer og datastrukturer
@@ -13,8 +13,8 @@ __Diplom ingeniør i Softwareteknologi__
 * Compilerteknik
 
 ### 2013-16 Københavns Erhversakademi KØBENHAVN 
-#### Datamatiker
-
+`2013-16`
+__Datamatiker__
 * Softwarekonstruktion
 * Softwaredesign
 * IT i organisationer
@@ -24,4 +24,4 @@ __Diplom ingeniør i Softwareteknologi__
 * Android
 * Web development i C#, ASP.NET
 
-[logo]: https://github.com/krellesch/cv/blob/master/logo/download.png "DTU"
+[dtu]: https://github.com/krellesch/cv/blob/master/logo/download.png "DTU"
