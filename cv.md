@@ -23,3 +23,4 @@
 * Software udvikling
 * Android
 * Web development i C#, ASP.NET
+
