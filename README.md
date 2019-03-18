@@ -2,7 +2,6 @@
 
 Github version af CV, til direkte henvisning
 
-## Se  CV
+## CV
 
-[se cv](cv.md)
-Se filen cv.md - github kan vise markdown filer direkte
+[Se dansk cv](cv.md)
