@@ -62,6 +62,11 @@ __Studentereksamen med studieretningen Virksomhedsøkonomi, Matematik og Finansi
 * Samfundsfag (C)
 
 ## JOB & STUDIEJOB
+
+### Netcompany A/S
+`2018-`
+__Developer__
+
 ### Flexya A/S
 `2015-17`
 __Software Developer__
@@ -75,10 +80,6 @@ Der blev arbejdet i Java i værktøjet **intelliJ**. **Spring MVC**, **Hibernate
 > været meget forskellige og han har vist, at han hurtigt er i stand til at sætte sig ind i ny teknologi og løse opgaven
 > til fuld tilfredshed. Kristian arbejder selvstændigt med stor faglig dygtighed. Han er god til at arbejde sammen med andre
 > og er vellidte blandt hans kollegaer. Det er defor med glæde at vi kan anbefale Kristian Schjønning” - Steffen Vogdrup 
-
-### Netcompany A/S
-`2018-`
-__Developer__
 
 ### Flexya A/S
 `2015-15`
