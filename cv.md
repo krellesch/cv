@@ -1,10 +1,3 @@
-<style type="text/css">
-img[alt=thumbnail] {
-   width:150px;
-   height:100px;
-}
-</style>
-
 ## Kristian Schjønning ![thumbnail](https://github.com/krellesch/cv/blob/master/logo/profil_billed.png)
 __BEng. Softwareteknologi__
 <div id="webaddress">
@@ -99,6 +92,9 @@ __Ejer__
 ### DSV - Global Transport and Logistics 
 `2008-11`
 __Store employee__
+
+<img src="https://github.com/krellesch/cv/blob/master/logo/profil_billed.png" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 
 [dtu]: https://github.com/krellesch/cv/blob/master/logo/dtu.png "Danmarks tekniske universitet"
 [kea]: https://github.com/krellesch/cv/blob/master/logo/kea.png "Københavnserhvers akademi"
