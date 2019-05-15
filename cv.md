@@ -100,11 +100,6 @@ __Store employee__
 [profil_billed]: https://github.com/krellesch/cv/blob/master/logo/profil_billed.png "Flot fyr"
 
 img[alt=thumbnail] {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  margin: 20px;
-
-  object-fit: cover;
-  object-position: center right;
+   width:150px;
+   height:100px;
 }
