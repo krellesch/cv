@@ -1,3 +1,10 @@
+<style type="text/css">
+img[alt=thumbnail] {
+   width:150px;
+   height:100px;
+}
+</style>
+
 ## Kristian Schjønning ![thumbnail](https://github.com/krellesch/cv/blob/master/logo/profil_billed.png)
 __BEng. Softwareteknologi__
 <div id="webaddress">
