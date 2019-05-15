@@ -94,7 +94,7 @@ __Ejer__
 __Store employee__
 
 <img src="https://github.com/krellesch/cv/blob/master/logo/profil_billed.png" alt="Kitten"
-	title="A cute kitten" width="150" height="100" border-radius="50%"/>
+	title="A cute kitten" width="150" height="100" border-radius="50%" margin="20px"/>
 
 [dtu]: https://github.com/krellesch/cv/blob/master/logo/dtu.png "Danmarks tekniske universitet"
 [kea]: https://github.com/krellesch/cv/blob/master/logo/kea.png "Københavnserhvers akademi"
