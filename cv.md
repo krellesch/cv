@@ -1,4 +1,4 @@
-## Kristian Schjønning ![alt text][profil_billed]
+## Kristian Schjønning ![alt text][profil_billed#thumbnail]
 __BEng. Softwareteknologi__
 <div id="webaddress">
 <a href="mailto:krelleschjoenning@gmail.com">Mail</a>
@@ -98,3 +98,13 @@ __Store employee__
 [uwa]: https://github.com/krellesch/cv/blob/master/logo/uwa.png "University Of Western Australia"
 [tietgen]: https://github.com/krellesch/cv/blob/master/logo/tietgen.png "Tietgen handelsgymnasium"
 [profil_billed]: https://github.com/krellesch/cv/blob/master/logo/profil_billed.png "Flot fyr"
+
+img[src*="#thumbnail"] {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px;
+
+  object-fit: cover;
+  object-position: center right;
+}
