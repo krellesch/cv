@@ -1,11 +1,6 @@
 ## Kristian Schjønning ![alt text](https://github.com/krellesch/cv/blob/master/logo/profil_billed.png)
 
 
-<div id="photo">
-  <img src="logo/profil_billed.png" style="float: left; margin-rgiht: 10px; border-radius: 50%;"/>
-</div>
-
-
 __BEng. Softwareteknologi__
 <div id="webaddress">
 <a href="mailto:krelleschjoenning@gmail.com">Mail</a>
