@@ -1,4 +1,11 @@
-## Kristian Schjønning ![thumbnail](https://github.com/krellesch/cv/blob/master/logo/profil_billed.png)
+## Kristian Schjønning ![alt text](https://github.com/krellesch/cv/blob/master/logo/profil_billed.png)
+
+
+<div id="photo">
+  <img src="logo/profil_billed.png" style="float: left; margin-rgiht: 10px; border-radius: 50%;"/>
+</div>
+
+
 __BEng. Softwareteknologi__
 <div id="webaddress">
 <a href="mailto:krelleschjoenning@gmail.com">Mail</a>
@@ -93,7 +100,6 @@ __Ejer__
 `2008-11`
 __Store employee__
 
-<img src="https://github.com/krellesch/cv/blob/master/logo/profil_billed.png" width="150" height="100" style="border-radius: 50%;"/>
 
 [dtu]: https://github.com/krellesch/cv/blob/master/logo/dtu.png "Danmarks tekniske universitet"
 [kea]: https://github.com/krellesch/cv/blob/master/logo/kea.png "Københavnserhvers akademi"
