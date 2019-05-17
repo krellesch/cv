@@ -93,16 +93,10 @@ __Ejer__
 `2008-11`
 __Store employee__
 
-<img src="https://github.com/krellesch/cv/blob/master/logo/profil_billed.png" alt="Kitten"
-	title="A cute kitten" width="150" height="100" border-radius="50%" margin="20px"/>
+<img src="https://github.com/krellesch/cv/blob/master/logo/profil_billed.png" width="150" height="100" border-radius="50%" margin="20px"/>
 
 [dtu]: https://github.com/krellesch/cv/blob/master/logo/dtu.png "Danmarks tekniske universitet"
 [kea]: https://github.com/krellesch/cv/blob/master/logo/kea.png "Københavnserhvers akademi"
 [uwa]: https://github.com/krellesch/cv/blob/master/logo/uwa.png "University Of Western Australia"
 [tietgen]: https://github.com/krellesch/cv/blob/master/logo/tietgen.png "Tietgen handelsgymnasium"
 [profil_billed]: https://github.com/krellesch/cv/blob/master/logo/profil_billed.png "Flot fyr"
-
-img[alt=thumbnail] {
-   width:150px;
-   height:100px;
-}
