@@ -93,7 +93,7 @@ __Ejer__
 `2008-11`
 __Store employee__
 
-<img src="https://github.com/krellesch/cv/blob/master/logo/profil_billed.png" width="150" height="100" border-radius="50%" margin="20px"/>
+<img src="https://github.com/krellesch/cv/blob/master/logo/profil_billed.png" width="150" height="100" style="border-radius: 50%;"/>
 
 [dtu]: https://github.com/krellesch/cv/blob/master/logo/dtu.png "Danmarks tekniske universitet"
 [kea]: https://github.com/krellesch/cv/blob/master/logo/kea.png "Københavnserhvers akademi"
