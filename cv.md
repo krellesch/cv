@@ -1,4 +1,4 @@
-## Kristian Schjønning ![alt text](https://github.com/krellesch/cv/blob/master/logo/profil_billed.png)
+## Kristian Schjønning ![alt text](https://github.com/krellesch/cv/blob/master/logo/rounded_profile_pic.png)
 
 
 __BEng. Softwareteknologi__
