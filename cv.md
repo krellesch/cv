@@ -69,13 +69,15 @@ __Studentereksamen med studieretningen Virksomhedsøkonomi, Matematik og Finansi
 `2018-`
 __Developer__
 
+Udvikler på DMR (Digitale Motorregister)
+
 ### Flexya A/S
 `2015-17`
 __Software Developer__
 
 Udvikler med fokus på backend. 
 Der blev arbejdet i Java i værktøjet **intelliJ**. **Spring MVC**, **Hibernate**, **JPA**.
-- Zigna, Panneo (digital underskrift)
+- Zigna, Penneo (digital underskrift)
 
 > “Kristian har ved Flexya, siden slutningen af februar 2015 arbejdet som studie medhjælper og fra medio januar 2016 som
 > fuldtidsudvikler. Kristian har i perioden arbejdet med Java, Spring MVC, Hibernate og web services. Hans arbejdsopgaver har
