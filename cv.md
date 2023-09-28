@@ -8,7 +8,7 @@ __BEng. Softwareteknologi__
 <a href="https://www.linkedin.com/in/kristian-schj%C3%B8nning-93b761105/">Linkedin</a>
 </div>
 
-Mit fulde navn er Kristian Ter-Borch Gram Schjønning. Jeg er 28 år og bor i andelslejlighed på Islands Brygge, men er født og opvokset i Odense.
+Mit fulde navn er Kristian Ter-Borch Gram Schjønning. Jeg er 32 år og bor på Islands Brygge, men er født og opvokset i Odense.
 Jeg valgte på min uddannelse at kombinere min kærlighed for det kreative med min interesse for det tekniske – først på erhvervs niveau og siden på diplom ingeniør studiet ved DTU. 
 
 ## UDDANNELSE OG AFSLUTTEDE FAG
@@ -66,7 +66,9 @@ __Studentereksamen med studieretningen Virksomhedsøkonomi, Matematik og Finansi
 ## JOB & STUDIEJOB
 
 ### Netcompany A/S
-`2018-`
+`2021-`
+__Developer__
+`2018-21`
 __Developer__
 
 Udvikler på DMR (Digitale Motorregister)
