@@ -67,7 +67,8 @@ __Studentereksamen med studieretningen Virksomhedsøkonomi, Matematik og Finansi
 
 ### Netcompany A/S
 `2021-`
-__Developer__
+__Senior Developer__
+
 `2018-21`
 __Developer__
 
